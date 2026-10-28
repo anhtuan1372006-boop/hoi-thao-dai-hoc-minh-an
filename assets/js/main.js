@@ -30,7 +30,7 @@
   var SPEAKERS = {
     'minh-anh': {
       name: 'Nguyễn Minh Anh', role: 'Giảng viên', org: 'Đại học Minh An',
-      img: 'assets/img/speaker-1.webp', session: 's3',
+      img: 'assets/img/speaker-1-hd.webp', session: 's3',
       bio: [
         'Giảng viên phụ trách các học phần về công nghệ giáo dục, tập trung nghiên cứu mô hình lớp học số và quản trị đại học dựa trên dữ liệu.',
         'Tại hội thảo, diễn giả chia sẻ kinh nghiệm triển khai nền tảng học tập trực tuyến và những bài học khi chuyển đổi số trong nhà trường.'
@@ -38,7 +38,7 @@
     },
     'hoang-nam': {
       name: 'Trần Hoàng Nam', role: 'Chuyên gia công nghệ', org: 'Viện Nghiên cứu Số',
-      img: 'assets/img/speaker-2.webp', session: 's5',
+      img: 'assets/img/speaker-2-hd.webp', session: 's5',
       bio: [
         'Chuyên gia về trí tuệ nhân tạo và hạ tầng dữ liệu, tham gia tư vấn nhiều dự án chuyển đổi số cho khối giáo dục và doanh nghiệp.',
         'Phiên trình bày giới thiệu cách khai thác AI và dữ liệu có trách nhiệm, tiết kiệm năng lượng và hướng tới phát triển bền vững.'
@@ -46,7 +46,7 @@
     },
     'thu-ha': {
       name: 'Lê Thu Hà', role: 'Nhà nghiên cứu', org: 'Trung tâm Công nghệ Xanh',
-      img: 'assets/img/speaker-3.webp', session: 's7',
+      img: 'assets/img/speaker-3-hd.webp', session: 's7',
       bio: [
         'Nhà nghiên cứu trong lĩnh vực vật liệu tái chế và năng lượng sạch, theo đuổi các giải pháp công nghệ thân thiện với môi trường.',
         'Diễn giả phân tích các mô hình kinh tế tuần hoàn và cơ hội ứng dụng công nghệ xanh trong cộng đồng.'
@@ -54,7 +54,7 @@
     },
     'quoc-bao': {
       name: 'Phạm Quốc Bảo', role: 'Giảng viên', org: 'Khoa Kinh tế và Quản trị',
-      img: 'assets/img/speaker-4.webp', session: 's8',
+      img: 'assets/img/speaker-4-hd.webp', session: 's8',
       bio: [
         'Giảng viên nghiên cứu về quản trị đổi mới sáng tạo và hệ sinh thái khởi nghiệp trong trường đại học.',
         'Diễn giả điều phối phiên thảo luận cuối ngày, kết nối ý tưởng từ các phiên trước thành những hướng hợp tác cụ thể.'
@@ -64,19 +64,19 @@
 
   var TOPICS = {
     'chuyen-doi-so': {
-      title: 'Chuyển đổi số', img: 'assets/img/topic-digital.webp',
+      title: 'Chuyển đổi số', img: 'assets/img/topic-digital-hd.webp',
       summary: 'Ứng dụng công nghệ số trong giáo dục, quản trị và phát triển bền vững.',
       body: 'Chủ đề tập trung vào cách trường đại học, viện nghiên cứu và doanh nghiệp ứng dụng nền tảng số, dữ liệu và trí tuệ nhân tạo để nâng cao chất lượng đào tạo, quản trị và ra quyết định.',
       sessions: ['s3', 's5']
     },
     'cong-nghe-xanh': {
-      title: 'Công nghệ xanh', img: 'assets/img/topic-green.webp',
+      title: 'Công nghệ xanh', img: 'assets/img/topic-green-hd.webp',
       summary: 'Giải pháp công nghệ hướng tới môi trường và cộng đồng bền vững.',
       body: 'Chủ đề giới thiệu các giải pháp năng lượng sạch, vật liệu tái chế và mô hình kinh tế tuần hoàn giúp giảm phát thải và bảo vệ môi trường.',
       sessions: ['s7']
     },
     'doi-moi-sang-tao': {
-      title: 'Đổi mới sáng tạo', img: 'assets/img/topic-innovation.webp',
+      title: 'Đổi mới sáng tạo', img: 'assets/img/topic-innovation-hd.webp',
       summary: 'Thúc đẩy ý tưởng, nghiên cứu và hợp tác vì những giá trị lâu dài.',
       body: 'Chủ đề kết nối nhà khoa học, giảng viên, sinh viên và doanh nghiệp để biến ý tưởng nghiên cứu thành sản phẩm, dịch vụ có giá trị cho xã hội.',
       sessions: ['s8']
